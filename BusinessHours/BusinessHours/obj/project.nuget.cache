@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIGZ1pegZB4OX2DBXcqWgS+AuM8LZRxlyHeJAyBwocG3syfVv/ZRvmihKTiSk8LdmT1j1FE7DJGr1Dtkur+fmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alan1206\\source\\repos\\BusinessHours\\BusinessHours\\BusinessHoursService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alan1206\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\alan1206\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\alan1206\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\alan1206\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

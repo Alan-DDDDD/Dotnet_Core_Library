@@ -1,0 +1,12 @@
+C:\Users\alan1206\source\repos\TimerService\TimerService\bin\Debug\net6.0\TimerService.deps.json
+C:\Users\alan1206\source\repos\TimerService\TimerService\bin\Debug\net6.0\TimerService.dll
+C:\Users\alan1206\source\repos\TimerService\TimerService\bin\Debug\net6.0\ref\TimerService.dll
+C:\Users\alan1206\source\repos\TimerService\TimerService\bin\Debug\net6.0\TimerService.pdb
+C:\Users\alan1206\source\repos\TimerService\TimerService\obj\Debug\net6.0\TimerService.csproj.AssemblyReference.cache
+C:\Users\alan1206\source\repos\TimerService\TimerService\obj\Debug\net6.0\TimerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan1206\source\repos\TimerService\TimerService\obj\Debug\net6.0\TimerService.AssemblyInfoInputs.cache
+C:\Users\alan1206\source\repos\TimerService\TimerService\obj\Debug\net6.0\TimerService.AssemblyInfo.cs
+C:\Users\alan1206\source\repos\TimerService\TimerService\obj\Debug\net6.0\TimerService.csproj.CoreCompileInputs.cache
+C:\Users\alan1206\source\repos\TimerService\TimerService\obj\Debug\net6.0\TimerService.dll
+C:\Users\alan1206\source\repos\TimerService\TimerService\obj\Debug\net6.0\ref\TimerService.dll
+C:\Users\alan1206\source\repos\TimerService\TimerService\obj\Debug\net6.0\TimerService.pdb

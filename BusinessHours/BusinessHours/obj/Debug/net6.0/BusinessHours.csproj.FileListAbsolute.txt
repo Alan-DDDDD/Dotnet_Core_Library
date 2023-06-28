@@ -1,0 +1,12 @@
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\obj\Debug\net6.0\BusinessHours.csproj.AssemblyReference.cache
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\obj\Debug\net6.0\BusinessHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\obj\Debug\net6.0\BusinessHours.AssemblyInfoInputs.cache
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\obj\Debug\net6.0\BusinessHours.AssemblyInfo.cs
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\obj\Debug\net6.0\BusinessHours.csproj.CoreCompileInputs.cache
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\bin\Debug\net6.0\BusinessHours.deps.json
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\bin\Debug\net6.0\BusinessHours.dll
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\bin\Debug\net6.0\ref\BusinessHours.dll
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\bin\Debug\net6.0\BusinessHours.pdb
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\obj\Debug\net6.0\BusinessHours.dll
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\obj\Debug\net6.0\ref\BusinessHours.dll
+C:\Users\alan1206\source\repos\BusinessHours\BusinessHours\obj\Debug\net6.0\BusinessHours.pdb
